@@ -1,8 +1,6 @@
 ## weekend V.S sales volumn
 This is a weekend V.S sales volumn case.
 <br>
-red line: pred <br>
-blue line: real <br>
 <br>
 ![png](./picture/week3_old.png)<br><br>
 
