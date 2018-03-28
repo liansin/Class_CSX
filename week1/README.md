@@ -2,4 +2,4 @@
 - week1
     - 01 - 建立Github帳號
     - 02 - 熟悉91app資料集
-    - 03 - Data Structure.ipynb
+    - 03 - 計算每月銷貨量比例
