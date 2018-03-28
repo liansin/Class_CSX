@@ -7,5 +7,5 @@ This is a wordcloud for Trump case.
 ## trading hours V.S sales volumn
 This is a wordcloud for WithGaLove case.
 <br>
-![png](./picture/week4_chs.png)<br><br>
+![png](./picture/wekk4_chs.png)<br><br>
 <br><br>
