@@ -1,6 +1,6 @@
-## 123
+## Python_進階軟體開發專題_Week1
 
-- 123
+- week1
 <br>
-<a href="https://github.com/NTU-CSX-Project/106-2PythonSampleCode/tree/master/week_4">123</a>
-
+建立Github帳號
+熟悉91app資料集
