@@ -1,4 +1,5 @@
 ## week_5
 
  - TF-IDF
-    -use task_5 data
+ - use task_5 data
+ - use Jieba
