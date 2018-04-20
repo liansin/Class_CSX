@@ -25,6 +25,7 @@ notebook : [Week1_HW html](https://github.com/liansin/Class_CSX/blob/master/week
 
 notebook : [Week2_HW html](https://github.com/liansin/Class_CSX/blob/master/week2/WebCraw.ipynb)
 
+---
 
 ### week3
 [Week3 html](https://github.com/liansin/Class_CSX/tree/master/week3) 
@@ -37,6 +38,7 @@ This is a trading hours V.S sales volumn case.
 
 notebook : [Week3_HW html](https://github.com/liansin/Class_CSX/blob/master/week3/Untitled.ipynb)
 
+---
 
 ### week4
 [Week4 html](https://github.com/liansin/Class_CSX/tree/master/week4) 
@@ -50,3 +52,19 @@ This is a wordcloud for WithGaLove case.
 notebook_TrumpFB : [Week4_HW1 html](https://github.com/liansin/Class_CSX/blob/master/week4/wordcloud.ipynb) 
 
 notebook_WithGaLoveFB : [Week4_HW2 html](https://github.com/liansin/Class_CSX/blob/master/week4/wordcloud_FB.ipynb) 
+
+---
+
+### week5
+[Week5 html](https://github.com/liansin/Class_CSX/tree/master/week5) 
+
+ - TF-IDF
+ - use task_5 data
+ - use Jieba
+ - use sklearn to get word vector
+
+notebook : [Week5_HW html](https://github.com/liansin/Class_CSX/blob/master/week5/TF-IDF.ipynb) 
+
+---
+
+
