@@ -12,3 +12,15 @@
 
 ---
 
+### week2
+[Week2 html](https://github.com/liansin/Class_CSX/tree/master/week2) 
+
+- crawler_exercise
+    - 股票網站爬蟲
+
+    
+- week_2任務
+    - 股票漲幅與91app購買量做比較
+    - 完成一支網站爬蟲上傳至資料夾中   
+
+notebook : [Week1_HW1 html](https://github.com/liansin/Class_CSX/blob/master/week2/WebCraw.ipynb)
