@@ -6,7 +6,8 @@
     - 01 - 建立Github帳號
     - 02 - 熟悉91app資料集
         
-[Week1 html](https://github.com/liansin/Class_CSX/blob/master/week1/Untitled.ipynb) 
+[Week1 html](https://github.com/liansin/Class_CSX/tree/master/week1) 
+[Week1_HW1 html](https://github.com/liansin/Class_CSX/blob/master/week1/Untitled.ipynb) 
 
 ---
 
