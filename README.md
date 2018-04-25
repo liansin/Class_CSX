@@ -68,3 +68,13 @@ notebook : [Week5_HW html](https://github.com/liansin/Class_CSX/blob/master/week
 ---
 
 
+### week7
+[Week7 html](https://github.com/liansin/Class_CSX/tree/master/week7) 
+
+ - use SVM to classification
+ - use Wholesale customers data 
+ data source : [Week7_HW_data html](http://archive.ics.uci.edu/ml/datasets/Wholesale+customers) 
+
+ notebook : [Week7_HW html](https://github.com/liansin/Class_CSX/blob/master/week7/Untitled.ipynb) 
+
+---
