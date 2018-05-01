@@ -78,3 +78,26 @@ notebook : [Week5_HW html](https://github.com/liansin/Class_CSX/blob/master/week
  notebook : [Week7_HW html](https://github.com/liansin/Class_CSX/blob/master/week7/Untitled.ipynb) 
 
 ---
+
+### Project_1
+[Project_1 html](https://github.com/liansin/Class_CSX/tree/master/projetc_1) 
+
+ - TF-IDF 
+ - use Jieba
+ - use sklearn to get word vector
+
+notebook : [Project_1 html](https://github.com/liansin/Class_CSX/blob/master/projetc_1/TF-IDF.ipynb) 
+
+---
+
+### Project_2
+[Project_2 html](https://github.com/liansin/Class_CSX/tree/master/week8) 
+
+ - PCA 
+ - use Titanic data
+ - Try to use data to predict survived
+
+notebook : [Project_2 html](https://github.com/liansin/Class_CSX/blob/master/week8/PCA_for_titanic.ipynb) 
+
+---
+
