@@ -111,3 +111,14 @@ notebook : [Project_2 html](https://github.com/liansin/Class_CSX/blob/master/wee
 notebook : [Project_3 html](https://github.com/liansin/Class_CSX/blob/master/week9/HW9.ipynb) 
 
 ---
+
+### Project_4
+[Project_4 html](https://github.com/liansin/Class_CSX/tree/master/week10) 
+
+ - Apriori 
+ - use 91App data
+ - Try to use data to find some related items . 
+
+notebook : [Project_4 html](https://github.com/liansin/Class_CSX/blob/master/week10/project4.ipynb) 
+
+---
