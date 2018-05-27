@@ -101,3 +101,13 @@ notebook : [Project_2 html](https://github.com/liansin/Class_CSX/blob/master/wee
 
 ---
 
+### Project_3
+[Project_3 html](https://github.com/liansin/Class_CSX/tree/master/week9) 
+
+ - Linear Regression & ANOVA 
+ - use Teacher.csv data
+ - Try to use data to analysis
+
+notebook : [Project_3 html](https://github.com/liansin/Class_CSX/blob/master/week9/HW9.ipynb) 
+
+---
