@@ -122,3 +122,14 @@ notebook : [Project_3 html](https://github.com/liansin/Class_CSX/blob/master/wee
 notebook : [Project_4 html](https://github.com/liansin/Class_CSX/blob/master/week10/project4.ipynb) 
 
 ---
+
+### Project_5
+[Project_5 html](https://github.com/liansin/Class_CSX/tree/master/week11) 
+
+ - NN 
+ - use Titanic data
+ - Try to use data to predict survived . 
+
+notebook : [Project_5 html](https://github.com/liansin/Class_CSX/blob/master/week11/NN_for_titanic.ipynb) 
+
+---
