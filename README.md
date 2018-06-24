@@ -133,3 +133,21 @@ notebook : [Project_4 html](https://github.com/liansin/Class_CSX/blob/master/wee
 notebook : [Project_5 html](https://github.com/liansin/Class_CSX/blob/master/week11/NN_for_titanic.ipynb) 
 
 ---
+
+### Final_Project
+[Final_Project html](https://github.com/liansin/Class_CSX/tree/master/Final) 
+
+ - Target : We want use climate information to RNN for recommender Item
+
+ - step1 : Use Web-crawler to get climate information(temperature & rainfull)
+ notebook : [climate1_getStationInfo html](https://github.com/liansin/Class_CSX/blob/master/Final/climate1_getStationInfo.ipynb)
+ notebook : [climate2_getClimate html](https://github.com/liansin/Class_CSX/blob/master/Final/climate2_getClimate.ipynb)
+ - step2 : use Order.csv data to get Itemid , quantity , area , date 
+ - step3 : Combine step 1 & step 2 information
+ notebook : [Final_project html](https://github.com/liansin/Class_CSX/blob/master/Final/Final_project.ipynb)
+ - step4 : Organize the step3'data to use RNN type
+ notebook : [RNN_Final_Project html](https://github.com/liansin/Class_CSX/blob/master/Final/RNN_Final_Project.ipynb)
+ 
+ - step5 : We get recommender accuracy 21% , so we maybe can use more features to learning.
+
+---
